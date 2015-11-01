@@ -1,1 +1,2 @@
 more into file 1
+i want to commit this and then remove this
