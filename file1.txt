@@ -1,3 +1,2 @@
 github branch
 from master into file 1
-another modification to file 1
